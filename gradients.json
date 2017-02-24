@@ -40,6 +40,10 @@
         "colors": ["#DA22FF", "#9733EE"]
     },
     {
+        "name": "Beach Frame Night",
+        "colors": ["#f1c40f", "#9b59b6"]
+    },
+    {
         "name": "Emerald Water",
         "colors": ["#348F50", "#56B4D3"]
     },
