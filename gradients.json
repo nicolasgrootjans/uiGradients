@@ -977,5 +977,13 @@
     {
       "name": "Kimoby Is The New Blue",
       "colors": ["#396afc", "#2948ff"]
+    },
+    {
+      "name": "Big John Sunset",
+      "colors": ["#e67e22", "#e74c3c"]
+    },
+     {
+      "name": "Gert Purple Haze",
+      "colors": ["#2980b9", "#8e44ad"]
     }
 ]
